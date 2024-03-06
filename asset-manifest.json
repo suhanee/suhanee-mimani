@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/suhanee-mimani/static/css/main.9fc47f3e.css",
+    "main.js": "/suhanee-mimani/static/js/main.cfd53d8a.js",
+    "static/js/787.fb771931.chunk.js": "/suhanee-mimani/static/js/787.fb771931.chunk.js",
+    "static/media/temp2.png": "/suhanee-mimani/static/media/temp2.360a980618a6f0d99395.png",
+    "static/media/techskills.png": "/suhanee-mimani/static/media/techskills.300adfa48c97f94489d6.png",
+    "static/media/footer.png": "/suhanee-mimani/static/media/footer.16961e7777b699147704.png",
+    "static/media/bank.png": "/suhanee-mimani/static/media/bank.cef13ac3168bb63790d8.png",
+    "static/media/span.png": "/suhanee-mimani/static/media/span.ad982180a5334b252c16.png",
+    "static/media/pothole.png": "/suhanee-mimani/static/media/pothole.68cb968973f3972bff22.png",
+    "static/media/pet.png": "/suhanee-mimani/static/media/pet.51ca3e234a2eb10dc612.png",
+    "static/media/dashboard.png": "/suhanee-mimani/static/media/dashboard.e334ed322d4130cb6374.png",
+    "static/media/parking.png": "/suhanee-mimani/static/media/parking.7081e7b5d676cf73c269.png",
+    "static/media/aboutheading.png": "/suhanee-mimani/static/media/aboutheading.385137d92d4b532fae93.png",
+    "static/media/CentraNo2-Bold.ttf": "/suhanee-mimani/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/suhanee-mimani/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/suhanee-mimani/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/slick.svg": "/suhanee-mimani/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/suhanee-mimani/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/suhanee-mimani/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/suhanee-mimani/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/suhanee-mimani/index.html",
+    "main.9fc47f3e.css.map": "/suhanee-mimani/static/css/main.9fc47f3e.css.map",
+    "main.cfd53d8a.js.map": "/suhanee-mimani/static/js/main.cfd53d8a.js.map",
+    "787.fb771931.chunk.js.map": "/suhanee-mimani/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fc47f3e.css",
+    "static/js/main.cfd53d8a.js"
+  ]
+}
