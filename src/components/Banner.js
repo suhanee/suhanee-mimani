@@ -76,7 +76,7 @@ export const Banner = () => {
             
             <Row>
               <Col className="social-icon">
-                <div style={{ display: 'flex', paddingTop: '7vw', alignItems: 'center', gap:'1vw', width: '15vw' }}>
+                <div style={{ display: 'flex', paddingTop: '7vw', alignItems: 'center', gap:'1vw', width: '10vw' }}>
                   <a href="https://github.com/suhanee"><img src={navIcon1} alt="" /></a>
                   <a href="https://www.linkedin.com/in/suhanee-mimani/"><img src={navIcon2} alt="" /></a>
                   <a href="mailto:mimanisuhanee@gmail.com"><img src={navIcon3} alt="" /></a>

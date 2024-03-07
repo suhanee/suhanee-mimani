@@ -36,7 +36,7 @@ export const Projects = () => {
                     <div className="card">
                       <div className="card-body text-center">
                         <h5 className="card-title">AI-Based One Stop Pet Adoption Platform</h5>
-                        <img src={pet} alt="prj" className="pet"/>
+                        <img src={pet} alt="prj" className="image"/>
                       </div>
                     </div>
                   ) : ( 
@@ -61,7 +61,7 @@ export const Projects = () => {
                     <div className="card">
                       <div className="card-body text-center">
                         <h5 className="card-title">Smart Parking System using Internet of Things</h5>
-                        <img src={parking} alt="prj" className="parking"/>
+                        <img src={parking} alt="prj" className="image"/>
                       </div>
                       
                     </div>
@@ -87,7 +87,7 @@ export const Projects = () => {
                     <div className="card">
                       <div className="card-body text-center">
                         <h5 className="card-title">Attention Span Detection in Online Classes</h5>
-                        <img src={span} alt="prj" className="span"  />
+                        <img src={span} alt="prj" className="image" />
                       </div>
                       
                     </div>
@@ -115,7 +115,7 @@ export const Projects = () => {
                     <div className="card">
                       <div className="card-body text-center">
                         <h5 className="card-title">Pothole Detection and Severity Analysis</h5>
-                        <img src={pothole} alt="prj" className="pothole"/>
+                        <img src={pothole} alt="prj" className="image"/>
                       </div>
                       
                     </div>
@@ -140,7 +140,7 @@ export const Projects = () => {
                     <div className="card">
                       <div className="card-body text-center">
                         <h5 className="card-title">HR Analytics Dashboard Development using PowerBI</h5>
-                        <img src={dashboard} alt="prj" className="dashboard"/>
+                        <img src={dashboard} alt="prj" className="image"/>
                       </div>
                       
                     </div>
@@ -165,7 +165,7 @@ export const Projects = () => {
                     <div className="card">
                       <div className="card-body text-center">
                         <h5 className="card-title"> Online Bank Management and Financial Services</h5>
-                        <img src={bank} alt="prj" className="bank"/>
+                        <img src={bank} alt="prj" className="image" />
                       </div>
                       
                     </div>
